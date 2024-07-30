@@ -1,16 +1,24 @@
-# widgets_app
+# Aplicación de Conceptos Básicos de Flutter
 
-A new Flutter project.
+¡Bienvenido al repositorio de nuestra Aplicación de Conceptos Básicos de Flutter! 🚀
 
-## Getting Started
+Esta aplicación está diseñada para ayudar a los desarrolladores a familiarizarse con los fundamentos de Flutter, el popular framework de desarrollo de interfaces de usuario de Google. Aquí, cubrimos los conceptos esenciales a través de ejemplos prácticos y fáciles de entender.
 
-This project is a starting point for a Flutter application.
+## Características
 
-A few resources to get you started if this is your first Flutter project:
+- **Interfaz de Usuario Simple y Limpia**: Aprenda a crear una interfaz de usuario atractiva utilizando widgets básicos de Flutter.
+- **Navegación**: Entienda cómo funciona la navegación entre pantallas en Flutter.
+- **Gestión del Estado**: Descubra cómo manejar el estado en Flutter con el paquete `provider`.
+- **Diseño Responsive**: Vea cómo diseñar aplicaciones que se adapten a diferentes tamaños de pantalla.
+- **Integración con APIs**: Ejemplo de cómo hacer solicitudes HTTP y manejar datos de una API.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Requisitos Previos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://flutter.dev/docs/get-started/install) instalado en su máquina.
+- Conocimientos básicos de programación en Dart.
+
+## Instalación
+
+1. Clone este repositorio:
+   ```bash
+   git clone https://github.com/tu_usuario/flutter-conceptos-basicos.git
